@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- N/A
+- Minimize the `tokio` features used in "normal" (non-dev) dependencies
 
 ### Changed
 - N/A
